@@ -1,6 +1,6 @@
-Projekt SQL: Analiza ofert pracy w branży AI
+# Projekt SQL: Analiza ofert pracy w branży AI
 
-Dane
+## Dane
 Dane pochodzą z Kaggle (AI Job Market Dataset).  
 Baza danych została podzielona na 4 tabele:  
 - jobs – informacje o ofertach pracy (stanowisko, pensja, doświadczenie itp.)  
@@ -8,7 +8,7 @@ Baza danych została podzielona na 4 tabele:
 - skills – lista umiejętności (np. Python, SQL, Machine Learning)  
 - job_skills – tabela łącząca oferty pracy z wymaganymi umiejętnościami  
 
-Cele analizy
+## Cele analizy
 1. TOP 10 najczęściej wymaganych umiejętności  
 2. Średnia pensja w zależności od poziomu doświadczenia  
 3. Firmy z największą liczbą ofert  
